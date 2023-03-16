@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @BrianBernal
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Typescript and sass
-- 💞️ I’m looking to collaborate on Globant as developer and Acamica as Mentor
 - 📫 How to reach me: brianbernal27@gmail.com
 
 <!---
